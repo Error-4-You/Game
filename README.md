@@ -26,19 +26,12 @@
 <a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR">![TikTok](https://img.shields.io/badge/H4CK.LK-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=FF0F00)</a>
 </p>
 
-<img src="images (2).jpeg">
+<img src="	">
 
 ## ABOUT:
 Automatically launch google hacking queries against a target domain to find vulnerabilities and enumerate a target.
 
-## DEPENDENCIES(Linux):
-* xdg-open
-* Linux
 
-## LINUX USAGE:
-```
-./goohak domain.com
-```
 
 ## LICENSE:
 This software is free to distribute, modify and use with the condition that credit is provided to the creator (Error-4-You) and is not for commercial use.
