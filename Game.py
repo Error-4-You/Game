@@ -16,8 +16,8 @@ from widgets import *
 class Game(object):
     print "Setting global Game params."
     # Game parameters
-    BG_TILE_IMG = 'images/wood2.png'
-    BUTTON_BGIMG = 'images/x.png'
+    BG_TILE_IMG = 'wood2.png'
+    BUTTON_BGIMG = 'x.png'
     SCREEN_WIDTH, SCREEN_HEIGHT = 580, 500
     GRID_SIZE = 20
     FIELD_SIZE = 400, 400
