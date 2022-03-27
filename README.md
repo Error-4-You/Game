@@ -29,7 +29,7 @@
 <img src="	">
 
 ## ABOUT:
-Automatically launch google hacking queries against a target domain to find vulnerabilities and enumerate a target.
+A simple game in python using pygame,
 
 
 
