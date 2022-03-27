@@ -88,11 +88,11 @@ class Game(object):
 	print "Created toggle button."
 	
 	self.clockImg = Images(self.screen,
-					'images/clock.png',
+					'clock.png',
 					pos=vec2d(430,0))
 				
 	self.hand = Images(self.screen,
-						'images/secondHand.png',
+						'secondHand.png',
 						pos=vec2d(505,15),
 						imgtype='Spinner')
 					
