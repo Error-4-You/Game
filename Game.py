@@ -58,7 +58,7 @@ class Game(object):
     
 	print "Moving on to buttons..."        
     
-	self.button_bgimgs = ['images/x.png']
+	self.button_bgimgs = ['/x.png']
 	#self.button_width = self.button_bgimgs[0].get_width()
 	#self.button_height = self.button_bgimgs[0].get_height()
         
