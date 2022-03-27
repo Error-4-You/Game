@@ -71,7 +71,7 @@ class start():
 	    screen = pygame.display.set_mode((300, 300), 0, 32)
 
 	    clock = pygame.time.Clock()
-	    explosion_img = pygame.image.load('images/explosion1.png').convert_alpha()
+	    explosion_img = pygame.image.load('explosion1.png').convert_alpha()
 	    images = [explosion_img, pygame.transform.rotate(explosion_img, 90)]
 
 	    expl = SimpleAnimation(screen, (100, 100), images, 100, 2120)
