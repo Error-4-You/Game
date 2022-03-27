@@ -75,7 +75,7 @@ class Game(object):
         
 	print "Created close button."
  	
-	self.togglebtn_bgimgs = ['images/toggle1.png', 'images/toggle2.png']
+	self.togglebtn_bgimgs = ['toggle1.png', 'toggle2.png']
         
 	self.togglebtn = Button(self.screen,
                                 pos=vec2d(250, 250),
