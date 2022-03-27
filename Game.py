@@ -105,7 +105,7 @@ class Game(object):
 						speed=vec2d(0,5))
 						
 	self.moveImg = movingImg(self.screen,
-						"images/toggle1.png",
+						"toggle1.png",
 						pos=vec2d(0,self.SCREEN_HEIGHT*3/4),
 						speed=vec2d(5, 0))
 						
